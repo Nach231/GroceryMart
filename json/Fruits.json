@@ -1,0 +1,38 @@
+{
+    "submenu": [{
+            "imageurl": "https://verdurasalmacenamiento.blob.core.windows.net/pictures/sandia.png?sv=2023-01-03&st=2023-12-06T05%3A15%3A06Z&se=2023-12-14T05%3A15%3A00Z&sr=b&sp=r&sig=x7tZkcXfI95u4wKQkg3ebCOT6T4qMccQ48CQ9Du%2FfWg%3D",
+            "price": 500,
+            "seller": "Sahaya-Sandia",
+            "rating": 0,
+            "quantity": 20
+        },
+        {
+            "imageurl": "https://verdurasalmacenamiento.blob.core.windows.net/pictures/banana.png?sv=2023-01-03&st=2023-12-06T05%3A14%3A02Z&se=2023-12-14T05%3A14%3A00Z&sr=b&sp=r&sig=xe1Ia1go0rdoycoTDot0rUT0IH2AFEt3B29qIBvcsSk%3D",
+            "price": 10,
+            "seller": "Kiryana-Banana",
+            "rating": 0,
+            "quantity": 130
+        },
+        {
+            "imageurl": "https://verdurasalmacenamiento.blob.core.windows.net/pictures/manzana.png?sv=2023-01-03&st=2023-12-06T05%3A15%3A32Z&se=2023-12-14T05%3A15%3A00Z&sr=b&sp=r&sig=Xiq7pfMst86vWCpVNM0cOmXuAHU%2FttnOYH7iYE1TFl0%3D",
+            "price": 7,
+            "seller": "Kirwana-Manzana",
+            "rating": 0,
+            "quantity": 115
+        },
+        {
+            "imageurl": "https://verdurasalmacenamiento.blob.core.windows.net/pictures/melon.png?sv=2023-01-03&st=2023-12-06T05%3A16%3A00Z&se=2023-12-14T05%3A16%3A00Z&sr=b&sp=r&sig=8HtDKOv9DBGS3zLWco6xoaxvol7W2zTkLWkjhTU1Tck%3D",
+            "price": 10,
+            "seller": "Sahaya-Melon",
+            "rating": 0,
+            "quantity": 150
+        },
+        {
+            "imageurl": "https://verdurasalmacenamiento.blob.core.windows.net/pictures/cherry.png?sv=2023-01-03&st=2023-12-06T05%3A16%3A31Z&se=2023-12-14T05%3A16%3A00Z&sr=b&sp=r&sig=G%2FgYXmx%2FX6Bphq9p2IkLz12xd1MdNJp3iRFs2dhlVmI%3D",
+            "price": 7.5,
+            "seller": "Nirvana-Cherry",
+            "rating": 0,
+            "quantity": 160
+        }
+    ]
+}

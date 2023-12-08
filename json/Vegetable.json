@@ -1,0 +1,38 @@
+{
+    "submenu": [{
+            "imageurl": "https://verdurasalmacenamiento.blob.core.windows.net/pictures/coliflor.png?sv=2023-01-03&st=2023-12-08T18%3A22%3A33Z&se=2023-12-15T18%3A22%3A00Z&sr=b&sp=r&sig=Z4picLxrd45XdDmfEYxrh2PUGjC4CurnwmwdAnqDUOE%3D",
+            "price": 15,
+            "seller": "Sahaya-Coliflor",
+            "rating": 0,
+            "quantity": 50
+        },
+        {
+            "imageurl": "https://verdurasalmacenamiento.blob.core.windows.net/pictures/acelgas.png?sv=2023-01-03&st=2023-12-06T05%3A17%3A03Z&se=2023-12-14T05%3A17%3A00Z&sr=b&sp=r&sig=XrGGTcRh1gAlyQ4sD2mINfRh%2FiAcQ2rWgkgtTLXNy1o%3D",
+            "price": 9,
+            "seller": "Nirvana-Acelgas",
+            "rating": 0,
+            "quantity": 60
+        },
+        {
+            "imageurl": "https://verdurasalmacenamiento.blob.core.windows.net/pictures/brocoli.png?sv=2023-01-03&st=2023-12-06T05%3A17%3A29Z&se=2023-12-14T05%3A17%3A00Z&sr=b&sp=r&sig=N06JYXodYjX3DT%2F9WGdTPwA7aJOI1Pl7ECu6zmLTQlE%3D",
+            "price": 5,
+            "seller": "Kiryana-Brocoli",
+            "rating": 0,
+            "quantity": 100
+        },
+        {
+            "imageurl": "https://verdurasalmacenamiento.blob.core.windows.net/pictures/lechuga.png?sv=2023-01-03&st=2023-12-06T05%3A17%3A52Z&se=2023-12-14T05%3A17%3A00Z&sr=b&sp=r&sig=X1p8athuFirY3q%2FCR4P91YoGW%2By1dNwQKouYlihgY5k%3D",
+            "price": 5,
+            "seller": "Sahaya-Lechuga",
+            "rating": 0,
+            "quantity": 120
+        },
+        {
+            "imageurl": "https://verdurasalmacenamiento.blob.core.windows.net/pictures/melon.png?sv=2023-01-03&st=2023-12-06T05%3A16%3A00Z&se=2023-12-14T05%3A16%3A00Z&sr=b&sp=r&sig=8HtDKOv9DBGS3zLWco6xoaxvol7W2zTkLWkjhTU1Tck%3D",
+            "price": 4,
+            "seller": "Kirwana-Melon",
+            "rating": 0,
+            "quantity": 115
+        }
+    ]
+}
